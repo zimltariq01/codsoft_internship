@@ -11,6 +11,13 @@
 - " calculator is an essential tool used for mathematical computations, designed to simplify arithmetic and complex mathematical operations. It typically features a numeric keypad, display screen, and various function keys. Modern calculators can handle basic functions like addition, subtraction, multiplication, and division, as well as advanced operations such as trigonometric, logarithmic, and statistical calculations. Some calculators are specialized for specific purposes like scientific or financial calculations. They are portable and come in various forms, from pocket-sized handheld devices to software applications on computers and smartphones. Calculators have become indispensable for students, professionals, and anyone needing accurate and efficient mathematical solutions."
 
 ![output of calculator](https://github.com/zimltariq01/codsoft_internship/assets/112697054/de4ece16-f335-4bf6-9b3e-96ecbc158109)
+
+###   Tic Tac Toe
+- "Tic-Tac-Toe, also known as "Noughts and Crosses," is a classic two-player strategy game enjoyed worldwide. It's played on a 3x3 grid, and the objective is simple: be the first to form a row of three of your symbols (either X or O) horizontally, vertically, or diagonally.
+
+Players take turns marking the grid with their chosen symbol until one achieves victory or the board fills, resulting in a draw. Tic-Tac-Toe is easy to learn, making it accessible to all ages. Its simplicity conceals strategic depth, making it a beloved game for casual fun or honing critical thinking skills. Tic-Tac-Toe is a timeless, quick, and engaging pastime for friends and family."
+
+
  
 ### TO DO LIST
 - This is link for task 3 [To Do List](https://github.com/zimltariq01/codsoft_internship/tree/main/task_3_to%20do%20list)

@@ -16,6 +16,8 @@
 - "Tic-Tac-Toe, also known as "Noughts and Crosses," is a classic two-player strategy game enjoyed worldwide. It's played on a 3x3 grid, and the objective is simple: be the first to form a row of three of your symbols (either X or O) horizontally, vertically, or diagonally.
 
 Players take turns marking the grid with their chosen symbol until one achieves victory or the board fills, resulting in a draw. Tic-Tac-Toe is easy to learn, making it accessible to all ages. Its simplicity conceals strategic depth, making it a beloved game for casual fun or honing critical thinking skills. Tic-Tac-Toe is a timeless, quick, and engaging pastime for friends and family."
+![output of tic tac toe](https://github.com/zimltariq01/codsoft_internship/assets/112697054/b7c508f1-34f4-4e9c-b23e-b051d2774653)
+
 
 
  
